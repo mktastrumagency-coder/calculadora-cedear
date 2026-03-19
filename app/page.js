@@ -185,7 +185,7 @@ const CEDEAR_DATA = {
   TMO: { name: "Thermo Fisher", ratio: 18 },
   TRIP: { name: "TripAdvisor", ratio: 2 },
   TSLA: { name: "Tesla Inc", ratio: 15 },
-  TSM: { name: "TSMC", ratio: 10 },
+  TSM: { name: "TSMC", ratio: 9 },
   TTE: { name: "TotalEnergies", ratio: 4 },
   TX: { name: "Ternium S.A.", ratio: 1 },
   TXN: { name: "Texas Instruments", ratio: 6 },
